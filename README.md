@@ -3,6 +3,24 @@
 ## Overview
 PolygonMigration is a Django-based web application designed to facilitate the migration of programming problems and their test cases from the [Polygon](https://polygon.codeforces.com/) platform to a local database and Azure Blob Storage. It provides a user-friendly interface for staff users to fetch, review, tag, and migrate problems, as well as manage test cases and metadata.
 
+## Screenshots / Evidence
+
+### 1. Application Login
+<img width="722" height="537" alt="image" src="https://github.com/user-attachments/assets/dd983caf-d761-465f-9038-13ec5ec3b1ca" />
+
+### 2. Polygon Problem
+<img width="1027" height="677" alt="image" src="https://github.com/user-attachments/assets/91bc197a-9c51-4711-abc7-d43f62eb7308" />
+<img width="972" height="705" alt="image" src="https://github.com/user-attachments/assets/cf8f74f0-e8a5-42dd-938b-b7b32b2f7c40" />
+
+### 3. Database Migration
+<img width="1000" height="627" alt="image" src="https://github.com/user-attachments/assets/f1fa866e-7e43-4444-b8b5-ae1cd536ed5c" />
+
+### 4. Database Test Cases
+<img width="972" height="626" alt="image" src="https://github.com/user-attachments/assets/fe87b4f7-9977-4532-ada3-149687f5fa78" />
+
+### 5. Cloud Storage Migration
+<img width="952" height="682" alt="image" src="https://github.com/user-attachments/assets/9c0f6ad1-b4a0-4a4c-963f-af8cee56c7a8" />
+
 ## Features
 - **Polygon Integration:** Fetch problems and test cases directly from Polygon using API keys.
 - **Database Migration:** Store problem statements, metadata, and test cases in a PostgreSQL database.
